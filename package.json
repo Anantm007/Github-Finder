@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://Anantm007.github.io/Github-Finder/",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "netlify-cli": "^2.15.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
